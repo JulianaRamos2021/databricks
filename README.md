@@ -25,3 +25,7 @@ avaliando possíveis correlações temporais ao longo do período analisado.
 
 ## Observações
 Este projeto tem caráter apenas exploratório.
+
+##
+![Correlação Cartões vs CPI](<img width="1141" height="624" alt="image" src="https://github.com/user-attachments/assets/71f95f81-2247-4b62-a5ca-53ab4ed7589c" />)
+
