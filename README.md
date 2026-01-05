@@ -60,7 +60,8 @@ Observa-se que a emissão de cartões mantém uma trajetória de crescimento ao 
 O comportamento sugere que a decisão de emissão de novos cartões no Brasil está mais associada a estratégias de mercado, expansão do crédito e fatores domésticos, do que a variações diretas da inflação americana.
 
 Este resultado é consistente com a correlação positiva, porém fraca, encontrada na análise quantitativa.
-<img width="949" height="502" alt="image" src="https://github.com/user-attachments/assets/d97add56-5f0c-4cdc-99fd-8c1082811388" />
+<img width="952" height="475" alt="image" src="https://github.com/user-attachments/assets/33a8b774-2002-4f45-88f9-94ea66feb897" />
+
 
 # Quantidade de Transações x Inflação (EUA)
 
