@@ -72,7 +72,13 @@ Por outro lado, a inflação dos EUA apresenta uma variação muito mais suave e
 Esse comportamento reforça a conclusão de que a quantidade de transações no Brasil não é diretamente influenciada por variações inflacionárias externas, sendo predominantemente explicada por fatores internos e padrões sazonais de consumo.
 
 O gráfico é consistente com a correlação fraca observada na análise estatística.
-<img width="955" height="503" alt="image" src="https://github.com/user-attachments/assets/a2f8b54b-ecc6-4635-83b6-c24319b99a4f" />
+<img width="953" height="480" alt="image" src="https://github.com/user-attachments/assets/4c0c6322-f236-453f-b71b-95bf23f65ad6" />
+
+
+
+
+<img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/7f4375d4-ad02-4ec8-ab69-69c7993651eb" />
+
 
 
 
