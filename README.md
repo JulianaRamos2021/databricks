@@ -24,4 +24,4 @@ avaliando possíveis correlações temporais ao longo do período analisado.
  Python
 
 ## Observações
-Este projeto tem caráter exploratório e não implica causalidade.
+Este projeto tem caráter apenas exploratório.
