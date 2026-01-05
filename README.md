@@ -45,7 +45,8 @@ Essa percepção visual está alinhada com o resultado quantitativo da correlaç
 
 Em termos práticos, o gráfico sugere que, embora indicadores macroeconômicos globais possam exercer alguma influência indireta, o crescimento do uso de cartões de crédito no Brasil é majoritariamente guiado por fatores domésticos, como renda, crédito local e dinâmica econômica interna.
 
-<img width="954" height="515" alt="image" src="https://github.com/user-attachments/assets/89b0bce9-c861-490f-9a47-47f063d2c55f" />
+<img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/8fad53cb-43d2-485f-a8d8-1b154fbbc4fa" />
+
 
 
 
