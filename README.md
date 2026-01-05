@@ -29,7 +29,7 @@ Este projeto tem caráter apenas exploratório.
 
 
 
-#### Análise Gráfica — Cartões Ativos x Inflação (EUA)
+# Análise Gráfica — Cartões Ativos x Inflação (EUA)
 
 O gráfico compara a evolução do número de cartões de crédito ativos no Brasil com a inflação dos Estados Unidos (CPI) ao longo do tempo.
 
