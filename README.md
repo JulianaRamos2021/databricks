@@ -76,7 +76,21 @@ O gráfico é consistente com a correlação fraca observada na análise estatí
 
 
 
+# Valor das transações em cartões x inflação
 
+O gráfico mostra um crescimento consistente no valor das transações com cartões de crédito ao longo do tempo, refletindo a expansão do uso de meios eletrônicos de pagamento e o aumento da atividade econômica.
+
+A inflação, por sua vez, apresenta uma trajetória gradual de alta, com variações ao longo dos anos, mas sem movimentos abruptos no mesmo ritmo das transações.
+
+Visualmente, não há uma relação direta ou imediata entre os picos no valor das transações e as oscilações da inflação. Em diversos períodos, o valor transacionado continua crescendo mesmo quando a inflação se mantém relativamente estável.
+
+Isso sugere que:
+
+O aumento do valor transacionado é mais influenciado por fatores estruturais, como digitalização, maior aceitação de cartões e crescimento do consumo.
+
+A inflação atua como um fator de contexto macroeconômico, mas não parece ser o principal determinante da evolução do valor das transações no período analisado.
+
+Essa interpretação é consistente com o baixo coeficiente de correlação encontrado, indicando uma relação fraca entre as duas variáveis.
 <img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/7f4375d4-ad02-4ec8-ab69-69c7993651eb" />
 
 
