@@ -26,7 +26,26 @@ avaliando possíveis correlações temporais ao longo do período analisado.
 ## Observações
 Este projeto tem caráter apenas exploratório.
 
-##
-![Correlação Cartões vs CPI](<img width="953" height="519" alt="image" src="https://github.com/user-attachments/assets/f179e1a3-8e0a-4efa-87af-63d7eaea6fb2" />
-)
+
+
+
+#### Análise Gráfica — Cartões Ativos x Inflação (EUA)
+
+O gráfico compara a evolução do número de cartões de crédito ativos no Brasil com a inflação dos Estados Unidos (CPI) ao longo do tempo.
+
+Visualmente, é possível observar que:
+
+O número de cartões ativos apresenta uma tendência de crescimento contínuo, com variações ao longo dos anos.
+
+A inflação dos EUA possui movimentos cíclicos, com períodos de aceleração e desaceleração bem definidos.
+
+Não há um movimento claramente sincronizado entre as duas séries, reforçando a ideia de que o comportamento dos cartões no Brasil não reage diretamente às variações da inflação americana.
+
+Essa percepção visual está alinhada com o resultado quantitativo da correlação, que indicou uma relação positiva, porém fraca, entre as variáveis.
+
+Em termos práticos, o gráfico sugere que, embora indicadores macroeconômicos globais possam exercer alguma influência indireta, o crescimento do uso de cartões de crédito no Brasil é majoritariamente guiado por fatores domésticos, como renda, crédito local e dinâmica econômica interna.
+
+<img width="954" height="515" alt="image" src="https://github.com/user-attachments/assets/89b0bce9-c861-490f-9a47-47f063d2c55f" />
+
+
 
