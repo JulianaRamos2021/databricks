@@ -49,3 +49,18 @@ Em termos práticos, o gráfico sugere que, embora indicadores macroeconômicos 
 
 
 
+
+#Cartões Emitidos x Inflação (EUA)
+
+O gráfico apresenta a evolução da quantidade de cartões de crédito emitidos no Brasil em comparação com a inflação dos Estados Unidos (CPI).
+
+Observa-se que a emissão de cartões mantém uma trajetória de crescimento ao longo do período, com variações pontuais, enquanto a inflação dos EUA apresenta movimentos cíclicos mais voláteis. Assim como no caso dos cartões ativos, não há uma relação visual forte ou imediata entre as duas séries.
+
+O comportamento sugere que a decisão de emissão de novos cartões no Brasil está mais associada a estratégias de mercado, expansão do crédito e fatores domésticos, do que a variações diretas da inflação americana.
+
+Este resultado é consistente com a correlação positiva, porém fraca, encontrada na análise quantitativa.
+<img width="949" height="502" alt="image" src="https://github.com/user-attachments/assets/d97add56-5f0c-4cdc-99fd-8c1082811388" />
+
+
+
+
